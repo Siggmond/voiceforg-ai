@@ -9,7 +9,6 @@
 ![Groq](https://img.shields.io/badge/Groq-API-000000?style=flat)
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=flat)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-brightgreen?style=flat)
 
 ![Stars](https://img.shields.io/github/stars/Siggmond/voiceforg-ai?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/Siggmond/voiceforg-ai?style=flat)
