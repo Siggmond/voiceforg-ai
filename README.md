@@ -149,3 +149,6 @@ This project demonstrates:
 ## 📄 License
 
 MIT
+
+
+If this project was helpful or inspiring, consider giving it a ⭐️.
