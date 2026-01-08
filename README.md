@@ -1,5 +1,19 @@
 # 🚀 VoiceForge AI
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Enabled-0A66C2?style=flat)
+![Android](https://img.shields.io/badge/Android-minSdk%2024-3DDC84?style=flat&logo=android&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-API-000000?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=flat)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-brightgreen?style=flat)
+
+![Stars](https://img.shields.io/github/stars/Siggmond/voiceforg-ai?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/Siggmond/voiceforg-ai?style=flat)
+
 **VoiceForge AI** is a **production-grade voice intelligence platform** that transforms raw speech into structured, actionable insights in real time.
 
 It combines **low-latency speech-to-text**, **streaming audio ingestion**, and **LLM-powered reasoning** behind a clean API and a minimal mobile client.
