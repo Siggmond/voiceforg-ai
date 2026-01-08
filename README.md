@@ -17,7 +17,7 @@
 
 It combines **low-latency speech-to-text**, **streaming audio ingestion**, and **LLM-powered reasoning** behind a clean API and a minimal mobile client.
 
-This project is designed as a **serious engineering showcase**, not a demo.
+This project focuses on real-world architecture, reliability, and developer experience.
 
 ---
 
